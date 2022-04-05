@@ -1,5 +1,6 @@
 {
   "name": "financial-planner",
+  "homepage": "https://nditanaka.github.io/financial-planner",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
